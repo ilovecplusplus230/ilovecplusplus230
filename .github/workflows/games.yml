@@ -1,0 +1,41 @@
+name: Profile Games
+
+on:
+  issues:
+    types: [opened]
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - profile_games.py
+      - .github/workflows/games.yml
+  schedule:
+    - cron: '17,47 * * * *'
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: profile-games
+  cancel-in-progress: false
+
+jobs:
+  play:
+    if: github.event_name != 'issues' || startsWith(github.event.issue.title, '[game] ')
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Test game rules
+        run: python3 profile_games.py --self-test
+      - name: Process game requests and update profile
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          python3 profile_games.py
