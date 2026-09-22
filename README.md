@@ -123,7 +123,7 @@
 
 - @ilovecplusplus230 · ⚔️ 战士 · D20 **14** +1 = **15**
 
-**最近处理：** @ilovecplusplus230 · 🔵 第 3 列
+**最近处理：** @ilovecplusplus230：棋盘已更新，这次旧链接没有落子；请刷新主页再选择。
 
 <sub>灵感来自 [JonathanGin52 的四子棋](https://github.com/JonathanGin52/JonathanGin52) 和 [benjaminsampica 的职业骰子](https://github.com/benjaminsampica/benjaminsampica)。本仓库独立实现。</sub>
 
