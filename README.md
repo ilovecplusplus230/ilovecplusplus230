@@ -7,6 +7,7 @@
 <br/><br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-ilovecplusplus230-181717?logo=github)](https://github.com/ilovecplusplus230)
+[![CSDN](https://img.shields.io/badge/CSDN-博客-FC5531?logo=csdn&logoColor=white)](https://blog.csdn.net/2301_79741830)
 ![Profile views](https://komarev.com/ghpvc/?username=ilovecplusplus230&abbreviated=true)
 
 <picture>
@@ -25,6 +26,7 @@
 
 👤 **Name:** MengZhe Wu  
 🏷️ **GitHub:** ilovecplusplus230  
+📝 **Blog:** [CSDN 博客](https://blog.csdn.net/2301_79741830)  
 🎓 **Education:** Artificial Intelligence, Harbin Institute of Technology  
 🔬 **Interests:** Artificial Intelligence and Large Language Models (LLMs)
 
