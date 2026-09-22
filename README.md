@@ -35,7 +35,7 @@
 
 <p align="center">
   <img alt="Contribution summary" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilovecplusplus230&theme=react" />
-  <img alt="GitHub stats" height="170" src="./profile/stats.svg" />
+  <img alt="GitHub stats" height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilovecplusplus230&theme=react" />
   <img alt="Most used languages" height="170" src="./profile/top-langs.svg" />
   <img alt="Productive time" height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ilovecplusplus230&utcOffset=8&theme=react" />
 </p>
@@ -58,10 +58,6 @@
 
 <div align="center">
   <img alt="Coding duck" width="120" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />
-
-### 📈 Activity
-
-<img alt="GitHub activity graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ilovecplusplus230&theme=react-dark&hide_border=true" />
 
 ### 🧊 3D Contribution Calendar
 
