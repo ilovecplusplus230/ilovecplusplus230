@@ -1,7 +1,7 @@
 {
   "c4": {
     "id": 1,
-    "ply": 2,
+    "ply": 3,
     "board": [
       [
         0,
@@ -43,7 +43,7 @@
         0,
         0,
         0,
-        0,
+        1,
         0,
         0,
         0
@@ -58,9 +58,10 @@
         0
       ]
     ],
-    "turn": 1,
+    "turn": 2,
     "result": 0,
     "recent": [
+      "🤖（由 @ilovecplusplus230 请求） · 🔴 第 4 列",
       "@ilovecplusplus230 · 🔵 第 3 列",
       "@ilovecplusplus230 · 🔴 第 4 列"
     ]
@@ -82,7 +83,8 @@
   "processed": {
     "1": "@ilovecplusplus230 · 🔴 第 4 列",
     "2": "@ilovecplusplus230 · ⚔️ 战士 · D20 **14** +1 = **15**",
-    "3": "@ilovecplusplus230 · 🔵 第 3 列"
+    "3": "@ilovecplusplus230 · 🔵 第 3 列",
+    "4": "🤖（由 @ilovecplusplus230 请求） · 🔴 第 4 列"
   },
-  "notice": "@ilovecplusplus230 · 🔵 第 3 列"
+  "notice": "🤖（由 @ilovecplusplus230 请求） · 🔴 第 4 列"
 }
