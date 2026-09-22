@@ -66,16 +66,21 @@
   },
   "dice": {
     "counts": {
-      "warrior": 0,
+      "warrior": 1,
       "cleric": 0,
       "rogue": 0,
       "wizard": 0
     },
-    "recent": [],
-    "histogram": {}
+    "recent": [
+      "@ilovecplusplus230 · ⚔️ 战士 · D20 **14** +1 = **15**"
+    ],
+    "histogram": {
+      "15": 1
+    }
   },
   "processed": {
-    "1": "@ilovecplusplus230 · 🔴 第 4 列"
+    "1": "@ilovecplusplus230 · 🔴 第 4 列",
+    "2": "@ilovecplusplus230 · ⚔️ 战士 · D20 **14** +1 = **15**"
   },
-  "notice": "@ilovecplusplus230 · 🔴 第 4 列"
+  "notice": "@ilovecplusplus230 · ⚔️ 战士 · D20 **14** +1 = **15**"
 }
