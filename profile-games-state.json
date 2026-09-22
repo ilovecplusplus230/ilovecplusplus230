@@ -1,7 +1,7 @@
 {
   "c4": {
     "id": 1,
-    "ply": 0,
+    "ply": 1,
     "board": [
       [
         0,
@@ -52,15 +52,17 @@
         0,
         0,
         0,
-        0,
+        1,
         0,
         0,
         0
       ]
     ],
-    "turn": 1,
+    "turn": 2,
     "result": 0,
-    "recent": []
+    "recent": [
+      "@ilovecplusplus230 · 🔴 第 4 列"
+    ]
   },
   "dice": {
     "counts": {
@@ -72,6 +74,8 @@
     "recent": [],
     "histogram": {}
   },
-  "processed": {},
-  "notice": ""
+  "processed": {
+    "1": "@ilovecplusplus230 · 🔴 第 4 列"
+  },
+  "notice": "@ilovecplusplus230 · 🔴 第 4 列"
 }
