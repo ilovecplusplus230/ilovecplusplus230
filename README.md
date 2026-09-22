@@ -115,15 +115,16 @@
 | 职业 | 修正 | 掷骰次数 | 开始 |
 | :--- | :---: | :---: | :---: |
 | ⚔️ 战士 | +1 | 1 | [🎲 掷骰子](https://github.com/ilovecplusplus230/ilovecplusplus230/issues/new?title=%5Bgame%5D+dice%3Awarrior&body=%F0%9F%8E%AE+%E7%82%B9%E5%87%BB+Create+%E6%8F%90%E4%BA%A4%E6%B8%B8%E6%88%8F%E6%93%8D%E4%BD%9C%EF%BC%8C%E6%97%A0%E9%9C%80%E4%BF%AE%E6%94%B9%E6%A0%87%E9%A2%98%E3%80%82%E7%BB%93%E6%9E%9C%E4%BC%9A%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0%E5%88%B0%E4%B8%BB%E9%A1%B5%EF%BC%8C%E6%9C%AC+Issue+%E4%BC%9A%E8%87%AA%E5%8A%A8%E5%85%B3%E9%97%AD%E3%80%82%E8%8B%A5%E6%A3%8B%E7%9B%98%E5%B7%B2%E8%BF%87%E6%9C%9F%EF%BC%8C%E8%AF%B7%E5%88%B7%E6%96%B0%E4%B8%BB%E9%A1%B5%E9%87%8D%E6%96%B0%E9%80%89%E6%8B%A9%E3%80%82) |
-| 💚 牧师 | +1 | 0 | [🎲 掷骰子](https://github.com/ilovecplusplus230/ilovecplusplus230/issues/new?title=%5Bgame%5D+dice%3Acleric&body=%F0%9F%8E%AE+%E7%82%B9%E5%87%BB+Create+%E6%8F%90%E4%BA%A4%E6%B8%B8%E6%88%8F%E6%93%8D%E4%BD%9C%EF%BC%8C%E6%97%A0%E9%9C%80%E4%BF%AE%E6%94%B9%E6%A0%87%E9%A2%98%E3%80%82%E7%BB%93%E6%9E%9C%E4%BC%9A%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0%E5%88%B0%E4%B8%BB%E9%A1%B5%EF%BC%8C%E6%9C%AC+Issue+%E4%BC%9A%E8%87%AA%E5%8A%A8%E5%85%B3%E9%97%AD%E3%80%82%E8%8B%A5%E6%A3%8B%E7%9B%98%E5%B7%B2%E8%BF%87%E6%9C%9F%EF%BC%8C%E8%AF%B7%E5%88%B7%E6%96%B0%E4%B8%BB%E9%A1%B5%E9%87%8D%E6%96%B0%E9%80%89%E6%8B%A9%E3%80%82) |
+| 💚 牧师 | +1 | 1 | [🎲 掷骰子](https://github.com/ilovecplusplus230/ilovecplusplus230/issues/new?title=%5Bgame%5D+dice%3Acleric&body=%F0%9F%8E%AE+%E7%82%B9%E5%87%BB+Create+%E6%8F%90%E4%BA%A4%E6%B8%B8%E6%88%8F%E6%93%8D%E4%BD%9C%EF%BC%8C%E6%97%A0%E9%9C%80%E4%BF%AE%E6%94%B9%E6%A0%87%E9%A2%98%E3%80%82%E7%BB%93%E6%9E%9C%E4%BC%9A%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0%E5%88%B0%E4%B8%BB%E9%A1%B5%EF%BC%8C%E6%9C%AC+Issue+%E4%BC%9A%E8%87%AA%E5%8A%A8%E5%85%B3%E9%97%AD%E3%80%82%E8%8B%A5%E6%A3%8B%E7%9B%98%E5%B7%B2%E8%BF%87%E6%9C%9F%EF%BC%8C%E8%AF%B7%E5%88%B7%E6%96%B0%E4%B8%BB%E9%A1%B5%E9%87%8D%E6%96%B0%E9%80%89%E6%8B%A9%E3%80%82) |
 | 🗡️ 盗贼 | +3 | 0 | [🎲 掷骰子](https://github.com/ilovecplusplus230/ilovecplusplus230/issues/new?title=%5Bgame%5D+dice%3Arogue&body=%F0%9F%8E%AE+%E7%82%B9%E5%87%BB+Create+%E6%8F%90%E4%BA%A4%E6%B8%B8%E6%88%8F%E6%93%8D%E4%BD%9C%EF%BC%8C%E6%97%A0%E9%9C%80%E4%BF%AE%E6%94%B9%E6%A0%87%E9%A2%98%E3%80%82%E7%BB%93%E6%9E%9C%E4%BC%9A%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0%E5%88%B0%E4%B8%BB%E9%A1%B5%EF%BC%8C%E6%9C%AC+Issue+%E4%BC%9A%E8%87%AA%E5%8A%A8%E5%85%B3%E9%97%AD%E3%80%82%E8%8B%A5%E6%A3%8B%E7%9B%98%E5%B7%B2%E8%BF%87%E6%9C%9F%EF%BC%8C%E8%AF%B7%E5%88%B7%E6%96%B0%E4%B8%BB%E9%A1%B5%E9%87%8D%E6%96%B0%E9%80%89%E6%8B%A9%E3%80%82) |
 | 🧙 法师 | -1 | 0 | [🎲 掷骰子](https://github.com/ilovecplusplus230/ilovecplusplus230/issues/new?title=%5Bgame%5D+dice%3Awizard&body=%F0%9F%8E%AE+%E7%82%B9%E5%87%BB+Create+%E6%8F%90%E4%BA%A4%E6%B8%B8%E6%88%8F%E6%93%8D%E4%BD%9C%EF%BC%8C%E6%97%A0%E9%9C%80%E4%BF%AE%E6%94%B9%E6%A0%87%E9%A2%98%E3%80%82%E7%BB%93%E6%9E%9C%E4%BC%9A%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0%E5%88%B0%E4%B8%BB%E9%A1%B5%EF%BC%8C%E6%9C%AC+Issue+%E4%BC%9A%E8%87%AA%E5%8A%A8%E5%85%B3%E9%97%AD%E3%80%82%E8%8B%A5%E6%A3%8B%E7%9B%98%E5%B7%B2%E8%BF%87%E6%9C%9F%EF%BC%8C%E8%AF%B7%E5%88%B7%E6%96%B0%E4%B8%BB%E9%A1%B5%E9%87%8D%E6%96%B0%E9%80%89%E6%8B%A9%E3%80%82) |
 
 **最近的冒险者**
 
+- @ilovecplusplus230 · 💚 牧师 · D20 **7** +1 = **8**
 - @ilovecplusplus230 · ⚔️ 战士 · D20 **14** +1 = **15**
 
-**最近处理：** @ilovecplusplus230：棋盘已更新，这次旧链接没有落子；请刷新主页再选择。
+**最近处理：** @ilovecplusplus230 · 💚 牧师 · D20 **7** +1 = **8**
 
 <sub>灵感来自 [JonathanGin52 的四子棋](https://github.com/JonathanGin52/JonathanGin52) 和 [benjaminsampica 的职业骰子](https://github.com/benjaminsampica/benjaminsampica)。本仓库独立实现。</sub>
 

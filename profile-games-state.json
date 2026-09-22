@@ -70,15 +70,17 @@
   "dice": {
     "counts": {
       "warrior": 1,
-      "cleric": 0,
+      "cleric": 1,
       "rogue": 0,
       "wizard": 0
     },
     "recent": [
+      "@ilovecplusplus230 · 💚 牧师 · D20 **7** +1 = **8**",
       "@ilovecplusplus230 · ⚔️ 战士 · D20 **14** +1 = **15**"
     ],
     "histogram": {
-      "15": 1
+      "15": 1,
+      "8": 1
     }
   },
   "processed": {
@@ -88,7 +90,8 @@
     "4": "🤖（由 @ilovecplusplus230 请求） · 🔴 第 4 列",
     "5": "@ilovecplusplus230 · 🔵 第 3 列",
     "6": "棋盘已更新，这次旧链接没有落子；请刷新主页再选择。",
-    "7": "棋盘已更新，这次旧链接没有落子；请刷新主页再选择。"
+    "7": "棋盘已更新，这次旧链接没有落子；请刷新主页再选择。",
+    "8": "@ilovecplusplus230 · 💚 牧师 · D20 **7** +1 = **8**"
   },
-  "notice": "@ilovecplusplus230：棋盘已更新，这次旧链接没有落子；请刷新主页再选择。"
+  "notice": "@ilovecplusplus230 · 💚 牧师 · D20 **7** +1 = **8**"
 }
