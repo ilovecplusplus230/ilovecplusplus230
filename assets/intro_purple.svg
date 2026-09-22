@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="500" viewBox="0 0 1000 500" role="img" aria-labelledby="title desc">
+<title id="title">MengZhe Wu — AI student at Harbin Institute of Technology</title>
+<desc id="desc">Interested in artificial intelligence and large language models. GitHub: ilovecplusplus230. CSDN: 2301_79741830.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#45267e"/><stop offset=".55" stop-color="#6256a4"/><stop offset="1" stop-color="#7598d8"/></linearGradient><linearGradient id="ring"><stop stop-color="#68cfff"/><stop offset="1" stop-color="#d8a9ff"/></linearGradient></defs>
+<style>text{font-family:Segoe UI,Arial,sans-serif;fill:#f7f3ff}.label{font-size:13px;letter-spacing:3px;font-weight:700;fill:#d3c6f1}.body{font-size:17px;fill:#eee8fb}.small{font-size:14px;fill:#e6def7}.panel{fill:#fff;fill-opacity:.055;stroke:#fff;stroke-opacity:.11}.star{animation:glow 4s ease-in-out infinite alternate}@keyframes glow{from{opacity:.25}to{opacity:.9}}@media(prefers-reduced-motion:reduce){.star{animation:none}}</style>
+<rect width="1000" height="500" rx="22" fill="url(#bg)"/>
+<g opacity=".065" font-family="monospace" font-size="23" fill="#fff"><text x="40" y="40">print("Hello, world!")</text><text x="680" y="470">Attention(Q, K, V)</text><text x="35" y="440">E = mc²</text><text x="800" y="35">return 0;</text><text x="490" y="490">∇ L(θ)</text></g>
+<g fill="#fff" class="star"><circle cx="57" cy="210" r="2"/><circle cx="300" cy="84" r="2"/><circle cx="280" cy="362" r="4"/><circle cx="922" cy="255" r="3"/><circle cx="650" cy="33" r="2"/><circle cx="612" cy="445" r="3"/><circle cx="952" cy="454" r="2"/></g>
+<circle cx="167" cy="146" r="70" fill="#332355" stroke="url(#ring)" stroke-width="4"/>
+<circle cx="167" cy="146" r="61" fill="#ffffff" fill-opacity=".06"/>
+<text x="167" y="163" text-anchor="middle" font-size="47" font-weight="700">MW</text>
+<circle cx="219" cy="194" r="10" fill="#46df92" stroke="#4c447d" stroke-width="4"/>
+<g text-anchor="middle"><text x="167" y="267" font-size="30" font-weight="700">MengZhe Wu</text><text x="167" y="297" class="small">ilovecplusplus230</text><text x="167" y="330" class="body">HIT · AI Student</text><text x="167" y="388" class="small">Artificial Intelligence</text><text x="167" y="414" class="small">Large Language Models</text><text x="167" y="440" class="small">Learning &amp; building</text></g>
+<rect x="345" y="38" width="618" height="148" rx="17" class="panel"/>
+<rect x="370" y="60" width="4" height="13" rx="2" fill="#8bd7ff"/><text x="383" y="72" class="label">ABOUT ME</text>
+<text x="371" y="106" class="body">AI undergraduate at Harbin Institute of Technology.</text><text x="371" y="137" class="body">Exploring artificial intelligence and large language models.</text><text x="371" y="166" class="body">Sharing projects and learning notes on GitHub and CSDN.</text>
+<rect x="345" y="200" width="618" height="118" rx="17" class="panel"/><rect x="370" y="224" width="4" height="13" rx="2" fill="#8bd7ff"/><text x="383" y="236" class="label">TECH &amp; INTERESTS</text>
+<g fill="#ffffff" fill-opacity=".10"><rect x="371" y="260" width="86" height="34" rx="17"/><rect x="469" y="260" width="72" height="34" rx="17"/><rect x="553" y="260" width="88" height="34" rx="17"/><rect x="653" y="260" width="108" height="34" rx="17"/></g>
+<g font-size="16" font-weight="600" text-anchor="middle"><text x="414" y="282">C++</text><text x="505" y="282">AI</text><text x="597" y="282">LLM</text><text x="707" y="282">GitHub</text></g>
+<rect x="345" y="332" width="618" height="130" rx="17" class="panel"/><rect x="370" y="357" width="4" height="13" rx="2" fill="#8bd7ff"/><text x="383" y="369" class="label">CURRENT FOCUS</text><text x="371" y="402" class="body">AI · LLMs</text><text x="371" y="432" class="small">C++ · Open source projects</text>
+<rect x="654" y="357" width="4" height="13" rx="2" fill="#8bd7ff"/><text x="667" y="369" class="label">CONNECT</text><text x="655" y="402" class="small">GitHub: ilovecplusplus230</text><text x="655" y="432" class="small">CSDN: 2301_79741830</text>
+</svg>
