@@ -1,14 +1,26 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Hello%2C+World!;Hi%2C+I%27m+MengZhe+Wu;Exploring+AI+and+Large+Language+Models&center=true&size=27)](https://git.io/typing-svg)
+<img alt="MengZhe Wu — AI student at HIT, exploring AI and LLMs" src="./assets/intro_purple.svg" width="100%" />
 
-<img alt="Coding animation" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=39FF14&background=0D111700&center=true&vCenter=true&width=650&lines=%24+Hi%2C+I+am+MengZhe+Wu;%24+Welcome+to+my+GitHub;%24+Exploring+AI+and+Large+Language+Models&duration=1800)](https://git.io/typing-svg)
 
-<br/><br/>
+---
 
-[![GitHub](https://img.shields.io/badge/GitHub-ilovecplusplus230-181717?logo=github)](https://github.com/ilovecplusplus230)
-[![CSDN](https://img.shields.io/badge/CSDN-博客-FC5531?logo=csdn&logoColor=white)](https://blog.csdn.net/2301_79741830)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![AI](https://img.shields.io/badge/Artificial_Intelligence-7952B3?style=for-the-badge)
+![LLM](https://img.shields.io/badge/Large_Language_Models-5865F2?style=for-the-badge)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ilovecplusplus230)
+
+[![CSDN](https://img.shields.io/badge/CSDN-博客-FC5531?style=for-the-badge&logo=csdn&logoColor=white)](https://blog.csdn.net/2301_79741830)
 ![Profile views](https://komarev.com/ghpvc/?username=ilovecplusplus230&abbreviated=true)
+
+---
+
+<table><tr><td width="55%"><img alt="MengZhe Wu's GitHub stats" width="100%" src="https://github-stats-extended.vercel.app/api?username=ilovecplusplus230&show_icons=true&theme=blue&hide_border=true&include_all_commits=true" /></td><td width="45%"><img alt="Most used languages" width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ilovecplusplus230&layout=compact&theme=blue&hide_border=true&langs_count=8" /></td></tr></table>
+
+<sub>Introduction layout inspired by <a href="https://github.com/IceFerryLing">IceFerryLing</a>.</sub>
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile/github-snake-dark.svg" />
@@ -17,20 +29,7 @@
 
 </div>
 
-# 🙋 Hello
-
 <table>
-<tr><td>
-
-### 🤺 About Me
-
-👤 **Name:** MengZhe Wu  
-🏷️ **GitHub:** ilovecplusplus230  
-📝 **Blog:** [CSDN 博客](https://blog.csdn.net/2301_79741830)  
-🎓 **Education:** Artificial Intelligence, Harbin Institute of Technology  
-🔬 **Interests:** Artificial Intelligence and Large Language Models (LLMs)
-
-</td></tr>
 <tr><td>
 
 ### 🙌 Contribution
